@@ -79,14 +79,11 @@ Follow these steps to set up the project locally:
 
 ## Screenshots
 
-![Homepage](class/assets/Screenshot01.jpeg)
-Caption: Homepage of EduRAG.
+Caption("Screenshot01.jpeg"): Homepage of EduRAG.
 
-![Course Material](class/assets/Screenshot02.jpeg)
-Caption: Select Your Class Subject & Chapter.
+Caption("Screenshot02.jpeg"): Select Your Class Subject & Chapter.
 
-![Ask Your Questions](class/assets/Screenshot03.jpeg)
-Caption: Ask your Questions.
+Caption("Screenshot03.jpeg"): Ask your Questions.
 
 ## Contributing
 
